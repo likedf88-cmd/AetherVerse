@@ -1,0 +1,6 @@
+{
+  "name": "AetherVerse - 3D Social Metaverse & Media Platform",
+  "description": "Next-generation social media & 3D metaverse platform combining social feeds, vertical videos, disappearing stories, real-time encrypted messaging, 3D multiplayer virtual lobby, custom avatar creator, virtual item economy, and super admin dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
